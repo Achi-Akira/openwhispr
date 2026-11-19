@@ -1,0 +1,9 @@
+{
+  "name": "openwhispr",
+  "version": "1.0.0",
+  "description": "Work with OpenWhispr, the privacy-first voice dictation app: its CLI for notes, folders, transcriptions and audio from the terminal, and its REST API for building integrations.",
+  "repository": "https://github.com/Achi-Akira/openwhispr",
+  "license": "MIT",
+  "keywords": ["dictation", "voice-to-text", "transcription", "whisper", "notes", "cli", "api"],
+  "skills": ["./agent-skills/openwhispr-api", "./agent-skills/openwhispr-cli"]
+}
